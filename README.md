@@ -26,3 +26,6 @@ OmniScripts cannot be directly embedded into the Utility Bar, so this wrapper pr
 - Once configured, the component loads the specified OmniScript inside the Utility Bar panel.  
 - The OmniScript is rendered using the `omnistudio-omnistudio-standard-runtime-wrapper`.  
 - The provided `Type` and `SubType` values are passed into the runtime wrapper to determine which OmniScript to display.
+  
+## Demo
+![2025-09-0907-18-30-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/8c6ead48-a317-4693-991b-2cb9d33bc086)
